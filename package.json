@@ -1,0 +1,19 @@
+{
+  "name": "emula-o-elevador",
+  "version": "1.0.0",
+  "description": "Sistema de Emulação de  elevador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealOmninight/emula-o-elevador.git"
+  },
+  "author": "Omninight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealOmninight/emula-o-elevador/issues"
+  },
+  "homepage": "https://github.com/RealOmninight/emula-o-elevador#readme"
+}
